@@ -1,2 +1,3 @@
 This is File01- Line 01
 This is File01- Line 02
+I have duplicated file with File-02
